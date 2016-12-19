@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZLNKECLIENT_SIDE_ENCRYPTION_DE</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>FLAG</DOMNAME>
+    <ROUTPUTLEN>000000</ROUTPUTLEN>
+    <MEMORYID/>
+    <LOGFLAG/>
+    <HEADLEN>14</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DDTEXT>RocketSteam. Client side encryption</DDTEXT>
+    <REPTEXT>Client Encrypt</REPTEXT>
+    <SCRTEXT_S>Cl.Encrypt</SCRTEXT_S>
+    <SCRTEXT_M>Clnt.Encrypt</SCRTEXT_M>
+    <SCRTEXT_L>Client Encrypt</SCRTEXT_L>
+    <ACTFLAG/>
+    <APPLCLASS/>
+    <AUTHCLASS>00</AUTHCLASS>
+    <AS4USER/>
+    <AS4DATE>0000-00-00</AS4DATE>
+    <AS4TIME>00:00:00</AS4TIME>
+    <DTELMASTER>E</DTELMASTER>
+    <RESERVEDTE/>
+    <DTELGLOBAL/>
+    <SHLPNAME/>
+    <SHLPFIELD/>
+    <DEFFDNAME/>
+    <DATATYPE/>
+    <LENG>000000</LENG>
+    <DECIMALS>000000</DECIMALS>
+    <OUTPUTLEN>000000</OUTPUTLEN>
+    <LOWERCASE/>
+    <SIGNFLAG/>
+    <CONVEXIT/>
+    <VALEXI/>
+    <ENTITYTAB/>
+    <REFKIND>D</REFKIND>
+    <REFTYPE/>
+    <PROXYTYPE/>
+    <LTRFLDDIS/>
+    <BIDICTRLC/>
+    <NOHISTORY/>
+   </DD04V>
+   <TPARA>
+    <PARAMID/>
+    <PARTEXT/>
+   </TPARA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

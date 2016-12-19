@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TTYP" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD40V>
+    <TYPENAME>ZLNKEMPART_UPLOAD_TT</TYPENAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <ROWTYPE>ZLNKEMPART_UPLOAD_ST</ROWTYPE>
+    <ROWKIND>S</ROWKIND>
+    <DATATYPE>STRU</DATATYPE>
+    <LENG>000000</LENG>
+    <DECIMALS>000000</DECIMALS>
+    <ACCESSMODE>T</ACCESSMODE>
+    <KEYDEF>D</KEYDEF>
+    <KEYKIND>N</KEYKIND>
+    <KEYFDCOUNT>0000</KEYFDCOUNT>
+    <GENERIC/>
+    <AS4USER/>
+    <AS4DATE>0000-00-00</AS4DATE>
+    <AS4TIME>00:00:00</AS4TIME>
+    <DDTEXT>RocketSteam. Multipart upload table type</DDTEXT>
+    <TYPELEN>000000</TYPELEN>
+    <ACTFLAG/>
+    <TTYPKIND/>
+    <RANGE_CTYP/>
+    <CTDATATYPE/>
+    <CTLENG>000000</CTLENG>
+    <CTDECIMALS>000000</CTDECIMALS>
+    <REFTYPE/>
+    <OCCURS>00000</OCCURS>
+    <PROXYTYPE/>
+    <ALIAS/>
+    <FURTHERSECKEY/>
+   </DD40V>
+   <DD42V/>
+   <DD43V/>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PROG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROGDIR>
+    <NAME>ZLNKEAWS_S3_DEMO_FILE</NAME>
+    <STATE>A</STATE>
+    <SQLX/>
+    <EDTX/>
+    <VARCL>X</VARCL>
+    <DBAPL/>
+    <DBNA/>
+    <CLAS/>
+    <TYPE/>
+    <OCCURS/>
+    <SUBC>1</SUBC>
+    <APPL/>
+    <SECU/>
+    <CNAM/>
+    <CDAT>0000-00-00</CDAT>
+    <UNAM/>
+    <UDAT>0000-00-00</UDAT>
+    <VERN/>
+    <LEVL/>
+    <RSTAT/>
+    <RMAND/>
+    <RLOAD>E</RLOAD>
+    <FIXPT>X</FIXPT>
+    <SSET/>
+    <SDATE>0000-00-00</SDATE>
+    <STIME/>
+    <IDATE>0000-00-00</IDATE>
+    <ITIME/>
+    <LDBNAME/>
+    <UCCHECK>X</UCCHECK>
+   </PROGDIR>
+   <DYNPROS/>
+   <TPOOL>
+    <item>
+     <ID>I</ID>
+     <KEY>001</KEY>
+     <ENTRY>Parameters</ENTRY>
+     <LENGTH>10</LENGTH>
+     <SPLIT/>
+    </item>
+    <item>
+     <ID>R</ID>
+     <KEY/>
+     <ENTRY>Demo working with Files</ENTRY>
+     <LENGTH>28</LENGTH>
+     <SPLIT/>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_BUCKET</KEY>
+     <ENTRY>Bucket name</ENTRY>
+     <LENGTH>19</LENGTH>
+     <SPLIT/>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_DBG</KEY>
+     <ENTRY>Write headers</ENTRY>
+     <LENGTH>21</LENGTH>
+     <SPLIT/>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_DELET</KEY>
+     <ENTRY>Delete file</ENTRY>
+     <LENGTH>19</LENGTH>
+     <SPLIT/>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_FNAME</KEY>
+     <ENTRY>File name</ENTRY>
+     <LENGTH>17</LENGTH>
+     <SPLIT/>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_FOLDER</KEY>
+     <ENTRY>Folder</ENTRY>
+     <LENGTH>14</LENGTH>
+     <SPLIT/>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_GET</KEY>
+     <ENTRY>Get file</ENTRY>
+     <LENGTH>16</LENGTH>
+     <SPLIT/>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_HEAD</KEY>
+     <ENTRY>Head file</ENTRY>
+     <LENGTH>17</LENGTH>
+     <SPLIT/>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_PUT</KEY>
+     <ENTRY>Put file</ENTRY>
+     <LENGTH>16</LENGTH>
+     <SPLIT/>
+    </item>
+   </TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>

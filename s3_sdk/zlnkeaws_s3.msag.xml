@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZLNKEAWS_S3</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <APPLCLASS/>
+    <RESPUSER/>
+    <LASTUSER/>
+    <LDATE>0000-00-00</LDATE>
+    <LTIME>00:00:00</LTIME>
+    <STEXT>Rocket Steam. Message class for AWS S3</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>&amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>&amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>OAC0 is locked</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Content Repository ID &amp; already exists</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Content Repository ID &amp; is in use</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>The system could not determine a Content Repository ID</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Several services found for HTTP Request Handler &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Service not found for HTTP Request Handler &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Program error: Field symbol could not be assigned.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Could not get information from FM ICM_GET_INFO</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Content Repository ID &amp; not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Hostname &amp; is invalid for Content Repository ID &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Port &amp; is invalid for Content Repository ID &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Script &amp; is invalid for Content Repository ID &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Region &amp; not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Endpoint in destination &amp; is wrong for region &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Port in destination &amp; is wrong for region &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Bucket &amp; already exists</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>AWS S3 User &amp; not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Message digest error (&amp;)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Bucket name &amp; is not valid</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>HTTP Send error (&amp;)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>HTTP Receive error (&amp;)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>Bucket &amp; not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>Server not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>ICM error</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>ICM Timeout</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>Archiving object &amp; not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Version &amp; not supported</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>Archiving object &amp; not found in ZLNKEaobj</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>Aobj &amp;: Content Rep &amp; Bucket &amp;. Differs from from Bucket&apos;s Content Rep &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>Service already exists for HTTP Request Handler &amp;. Service: &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>AWS S3 User &amp; already exists</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>Nothing to save</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>User &amp; cannot be deleted, it is assigned to bucket &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>Program error: Register not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>Port in destination &amp; is wrong</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>039</MSGNR>
+     <TEXT>Endpoint in destination &amp; is wrong</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>Bucket &amp; is in use</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>041</MSGNR>
+     <TEXT>Inform user name</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>Inform access key</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>043</MSGNR>
+     <TEXT>Inform secret access key</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>044</MSGNR>
+     <TEXT>Inform Bucket name</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>045</MSGNR>
+     <TEXT>Inform Region</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>046</MSGNR>
+     <TEXT>Error creating Bucket &amp;: &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>047</MSGNR>
+     <TEXT>Error deleting Bucket &amp;: &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>048</MSGNR>
+     <TEXT>User validation failed: &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>049</MSGNR>
+     <TEXT>Bucket &amp; not found in AWS S3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>050</MSGNR>
+     <TEXT>Bucket &amp; test write / read failed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>051</MSGNR>
+     <TEXT>Archiving object &amp; already exists in ZLNKEaobj</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>052</MSGNR>
+     <TEXT>Inform Archiving object</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>053</MSGNR>
+     <TEXT>Report &amp; not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>054</MSGNR>
+     <TEXT>Error in activation code. Please contact with RocketSteam</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>055</MSGNR>
+     <TEXT>Activation code not found. Please activate the application</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>056</MSGNR>
+     <TEXT>Unauthorized (HTTP 403)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>057</MSGNR>
+     <TEXT>Activation check failed. HTTP Status: &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>058</MSGNR>
+     <TEXT>License key not found. Please activate the application</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>059</MSGNR>
+     <TEXT>Error in activation process. Please contact with RocketSteam</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>060</MSGNR>
+     <TEXT>Error in activation process. Please check your license key</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>061</MSGNR>
+     <TEXT>ADMI_FILES is locked by &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>062</MSGNR>
+     <TEXT>&amp; raised</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>063</MSGNR>
+     <TEXT>Exception in method &amp;: &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>064</MSGNR>
+     <TEXT>Inform AWS Account ID</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>065</MSGNR>
+     <TEXT>AWS Account ID does not match</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>066</MSGNR>
+     <TEXT>Bucket Policy error: &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>067</MSGNR>
+     <TEXT>Error editing Bucket &amp;: &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>068</MSGNR>
+     <TEXT>SSF recipient &amp; error. Result: &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>069</MSGNR>
+     <TEXT>SSF Application &amp; not found. Customize SSFA</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>070</MSGNR>
+     <TEXT>SSF_KRN_ENVELOPE did not encrypt. Check algorithm in STRUST (Must be RSA)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>071</MSGNR>
+     <TEXT>SSF_KRN_DEVELOPE did not decrypt. Check algorithm in STRUST (Must be RSA)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>072</MSGNR>
+     <TEXT>SICF User &amp; could not be created</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>073</MSGNR>
+     <TEXT>SICF Service &amp; not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>074</MSGNR>
+     <TEXT>FORM secure_storage_passwd in prog RSICFTREE returned error</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>075</MSGNR>
+     <TEXT>Database update error (table &amp;)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>076</MSGNR>
+     <TEXT>SICF service &amp; could not be activated</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>077</MSGNR>
+     <TEXT>No changes to repository and cross client customizing allowed (SCC4)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>078</MSGNR>
+     <TEXT>Table &amp; not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>079</MSGNR>
+     <TEXT>Class &amp; not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>080</MSGNR>
+     <TEXT>Measuring size for bucket &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>081</MSGNR>
+     <TEXT>Measuring bucket sizes may take long. Consider running in background</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZLNKEAWS_S3</ARBGB>
+     <MSGNR>082</MSGNR>
+     <TEXT>Put object failed. HTTP_STATUS: &amp; &amp;</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
