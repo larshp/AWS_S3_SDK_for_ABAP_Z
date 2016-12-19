@@ -8,4 +8,7 @@ The Commercial Edition (complete solution) maps from ArchiveLink to AWS S3. In t
 AWS S3 for SAP runs on any SAP Netweaver 7.0 or higher. It only depends on BASIS package, so you can use it in ERP, CRM, SRM, etc...
 
 # Installing
-Follow detailed instructions in https://github.com/LinkeIT/AWS_S3_SDK_for_ABAP/blob/master/S3ForSAP_SDK_Community_EditionZ.pdf
+Follow detailed instructions in <a href="https://github.com/LinkeIT/AWS_S3_SDK_for_ABAP/blob/master/S3ForSAP_SDK_Community_EditionZ.pdf">this document</a>
+
+# FAQ
+For questions/comments/bugs/feature requests/wishes please create an <a href="https://github.com/LinkeIT/AWS_S3_SDK_for_ABAP_Z/issues">issue</a>
