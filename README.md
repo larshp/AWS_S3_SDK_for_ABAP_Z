@@ -5,7 +5,7 @@ The Community Edition is the ABAP SDK which you can use as a tool to write your 
 
 The Commercial Edition (complete solution) maps from ArchiveLink to <a href="https://aws.amazon.com/s3/" target="_blank">AWS S3</a>. In this way you can use S3 as a Content Server. As well you can make use of the ABAP SDK to develop your own programs.
 
-<a href="https://aws.amazon.com/s3/" target="_blank">AWS S3</a> for SAP runs on any SAP Netweaver 7.0 or higher. It only depends on BASIS package, so you can use it in ERP, CRM, SRM, etc...
+<a href="https://aws.amazon.com/s3/" target="_blank">AWS S3</a> for SAP runs on any SAP Netweaver 7.0 or higher (SAP_BASIS 700 0028 SAPKB70028). It only depends on BASIS package, so you can use it in ERP, CRM, SRM, etc...
 
 # Installing
 Follow detailed instructions in <a href="https://github.com/LinkeIT/AWS_S3_SDK_for_ABAP/blob/master/S3ForSAP_SDK_Community_EditionZ.pdf" target="_blank">this document</a>
