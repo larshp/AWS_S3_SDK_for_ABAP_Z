@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PROG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROGDIR>
+    <NAME>ZLNKERS3_TABLES_INITIAL_LOAD</NAME>
+    <STATE>A</STATE>
+    <SQLX/>
+    <EDTX/>
+    <VARCL>X</VARCL>
+    <DBAPL/>
+    <DBNA/>
+    <CLAS/>
+    <TYPE/>
+    <OCCURS/>
+    <SUBC>1</SUBC>
+    <APPL/>
+    <SECU/>
+    <CNAM/>
+    <CDAT>0000-00-00</CDAT>
+    <UNAM/>
+    <UDAT>0000-00-00</UDAT>
+    <VERN/>
+    <LEVL/>
+    <RSTAT/>
+    <RMAND/>
+    <RLOAD>E</RLOAD>
+    <FIXPT>X</FIXPT>
+    <SSET/>
+    <SDATE>0000-00-00</SDATE>
+    <STIME/>
+    <IDATE>0000-00-00</IDATE>
+    <ITIME/>
+    <LDBNAME/>
+    <UCCHECK>X</UCCHECK>
+   </PROGDIR>
+   <DYNPROS/>
+   <TPOOL>
+    <item>
+     <ID>R</ID>
+     <KEY/>
+     <ENTRY>Initial load for AWS Regions and log configuration</ENTRY>
+     <LENGTH>50</LENGTH>
+     <SPLIT/>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_TEST</KEY>
+     <ENTRY>Test run</ENTRY>
+     <LENGTH>16</LENGTH>
+     <SPLIT/>
+    </item>
+   </TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>
