@@ -1,5 +1,5 @@
 # AWS_S3_SDK_for_ABAP_Z
-AWS S3 for ABAP is an ABAP development wich enables native integration from ABAP to <a href="https://aws.amazon.com/s3/" target="_blank">AWS S3</a>. You will be able to manage buckets, folders and files on <a href="https://aws.amazon.com/s3/" target="_blank">AWS S3</a>. It has two editions: Community and Commercial.
+AWS S3 for ABAP is an ABAP development wich enables native integration from ABAP to <a href="https://aws.amazon.com/s3/" target="_blank">AWS S3</a>. You will be able to manage buckets, folders and files on <a href="https://aws.amazon.com/s3/" target="_blank">AWS S3</a>. It has two editions: Community and Enterprise.
 
 The Community Edition is the ABAP SDK which you can use as a tool to write your own programs to read from <a href="https://aws.amazon.com/s3/" target="_blank">AWS S3</a> and write to <a href="https://aws.amazon.com/s3/" target="_blank">AWS S3</a>. Demo programs are provided as a reference.
 
