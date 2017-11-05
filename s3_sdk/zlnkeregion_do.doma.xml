@@ -12,7 +12,6 @@
     <ENTITYTAB>ZLNKEREGION</ENTITYTAB>
     <DDTEXT>Rocket Steam. Region</DDTEXT>
    </DD01V>
-   <DD07V_TAB/>
   </asx:values>
  </asx:abap>
 </abapGit>
