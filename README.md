@@ -1,3 +1,5 @@
+This is a fork, original code by https://github.com/linkeit, now deleted by LinkeIT, repo not maintained
+
 # AWS_S3_SDK_for_ABAP_Z
 AWS S3 for ABAP is an ABAP development wich enables native integration from ABAP to <a href="https://aws.amazon.com/s3/" target="_blank">AWS S3</a>. You will be able to manage buckets, folders and files on <a href="https://aws.amazon.com/s3/" target="_blank">AWS S3</a>. It has two editions: Community and Enterprise.
 
